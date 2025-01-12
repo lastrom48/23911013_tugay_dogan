@@ -1,0 +1,46 @@
+body{
+  background-color: gainsboro;
+}
+
+.cv_yapisi {
+  font-family: Arial, sans-serif;
+  margin: 0 auto;
+  padding: 40px;
+  max-width: 800px;
+  font-size: 20px; 
+  background-color:cadetblue;
+  line-height: 1.6;
+  text-align: center;
+}
+
+section {
+  margin-bottom: 50px;
+}
+
+h2 {
+  font-size: 1.8em;
+  border-bottom: 2px solid #333;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin: 10px 0;
+  font-size: 1.1em;
+}
+
+footer {
+  text-align: center;
+}
+
+footer .sosyal_medya a {
+  margin: 0 15px;
+  color: #333;
+  text-decoration: none;
+  margin-top: 20px;
+}
